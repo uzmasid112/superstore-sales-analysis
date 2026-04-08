@@ -60,6 +60,10 @@ c:/Uzama/.venv/Scripts/python.exe 02_load_to_sql.py
 
 Update `02_load_to_sql.py` with your database connection details before running.
 
+### 4. Open the Power BI dashboard
+
+If you want to view the dashboard, open `superstore_dashboard.pbix` in Power BI Desktop.
+
 ## Output Files
 
 - `superstore_cleaned.csv` — cleaned dataset ready for analysis
