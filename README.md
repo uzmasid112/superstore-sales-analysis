@@ -82,6 +82,12 @@ https://github.com/uzmasid112/superstore-sales-analysis
 - The repository now also includes a Power BI dashboard file: `superstore_dashboard.pbix`.
 - The scripts use the local virtual environment path shown above.
 
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+A license file tells other people how they can use your code. It explains what is allowed, and what is not allowed, and it protects both you and the users of the project.
+
 ## Push to GitHub
 
 If you need to push again, use:
