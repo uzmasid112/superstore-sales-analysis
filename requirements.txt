@@ -1,0 +1,4 @@
+pandas>=2.0
+matplotlib>=3.7
+sqlalchemy>=2.0   # only for 03_load_to_sql.py
+pyodbc>=5.0       # only for 03_load_to_sql.py
